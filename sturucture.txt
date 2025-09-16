@@ -1,0 +1,10 @@
+OnlineStoreDB/
+├─ README.md                    
+├─ database_creation/         
+│   └─ create_tables.sql
+├─ sample_data/                 
+│   └─ insert_sample_data.sql
+├─ queries/                      
+│   ├─ dashboard_queries.sql     
+│   └─ user_queries.sql         
+├─ .gitignore   
